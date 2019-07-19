@@ -1,0 +1,16 @@
+{
+  "main.css": "/deckbuilder/static/css/main.a54f672c.chunk.css",
+  "main.js": "/deckbuilder/static/js/main.b7095621.chunk.js",
+  "main.js.map": "/deckbuilder/static/js/main.b7095621.chunk.js.map",
+  "runtime~main.js": "/deckbuilder/static/js/runtime~main.4d7b7088.js",
+  "runtime~main.js.map": "/deckbuilder/static/js/runtime~main.4d7b7088.js.map",
+  "static/css/2.5809d6ee.chunk.css": "/deckbuilder/static/css/2.5809d6ee.chunk.css",
+  "static/js/2.9e630dbf.chunk.js": "/deckbuilder/static/js/2.9e630dbf.chunk.js",
+  "static/js/2.9e630dbf.chunk.js.map": "/deckbuilder/static/js/2.9e630dbf.chunk.js.map",
+  "index.html": "/deckbuilder/index.html",
+  "precache-manifest.af021b8eaf264263eb91cf95289cc3f8.js": "/deckbuilder/precache-manifest.af021b8eaf264263eb91cf95289cc3f8.js",
+  "service-worker.js": "/deckbuilder/service-worker.js",
+  "static/css/2.5809d6ee.chunk.css.map": "/deckbuilder/static/css/2.5809d6ee.chunk.css.map",
+  "static/css/main.a54f672c.chunk.css.map": "/deckbuilder/static/css/main.a54f672c.chunk.css.map",
+  "static/media/semantic.min.css": "/deckbuilder/static/media/outline-icons.ef60a4f6.woff"
+}
