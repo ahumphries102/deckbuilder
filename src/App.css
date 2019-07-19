@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+div{
+  background-color:white;
+}
+.enlarge{
+    transition: 0.2s ease-out;
+}
+.enlarge:hover{
+  transform-origin: center center;
+  transform: scale(1.1,1.1)
+}
+/********** Hero CSS*/
+.heroBg{
+  position: absolute;
+  height:auto;
+  width: 100%;
+  opacity: .5;
+  top:0;
+  left:0;
+  z-index: 0;
+}
+.transBg > h1{
+    position: relative;;
+    z-index: 100;
+    font-size: 7vw;
+    color:white;
+}
+.transBg{
+  background-color: black;
+  overflow: hidden;
+  height: 20vh;
+  z-index: -1;
+}
+/********** .cardWindow only shows the top part of the users selected card*/
+.cardWindow{
+  position: relative;
+  overflow: hidden;
+  height:40px;
+  border-radius:8%;
+  width:auto;
+}
+.cardWindow > img{
+  position: absolute;
+  height:400px;
+  width:90%;
+  top:0;
+  right:25%;
+  left:0;
+}
+.scroll{
+  overflow: scroll;
+  height:80vh;
+}
+.rightColumnScroll{
+  height:80vh;
+  overflow: scroll;
+}
+li{
+  margin:25px;
+}
+ul{
+  list-style-type: none
+}
